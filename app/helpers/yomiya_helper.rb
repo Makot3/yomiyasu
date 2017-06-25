@@ -1,0 +1,2 @@
+module YomiyaHelper
+end
